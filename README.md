@@ -61,6 +61,7 @@ DHL | Delivery services | 4215
 Rappi | Delivery services | 4121
 Uber eats | Delivery services | 4215
 ||
+Del Sol | Departamentales | 5311
 Suburbia | Departamentales | 5311
 ||
 Claude.ai | Electrónicos | 5734
@@ -77,12 +78,14 @@ Steam | Electronics and software | 5816
 Kigo - Parkimovil | Estacionamiento | 7523
 ||
 Farmacias del Ahorro | Farmacias | 5912
+Farmacias Guadalajara | Farmacias | 5912
 Farmacias Regia | Farmacias | ?
 Farmacias San Francisco de Asís | Farmacias | 5912
 Farmacias Similares | Farmacias | 5912
 ||
 Multiviveros Cabrera | Flores | 5193
 ||
+FGS Gasolineras | Gas stations | 5541
 Gas Oriente | Gas stations | 5541 | Gas LP
 Pemex | Gas stations | 5541
 ||
@@ -111,6 +114,7 @@ Italiannis | Restaurantes | ?
 La buena tierra | Restaurantes | 5811
 Las Brasas | Restaurantes | 5812
 Pollo Feliz Apodaca | Restaurantes | 5812
+Soho Cafe | Restaurantes | 5812
 Taquería Arandas | Restaurantes | ?
 Vips | Restaurantes | 5812 
 William shakes | Restaurantes | ?
@@ -139,9 +143,11 @@ Maskota G11 | Supermercados | 5441 | Central de abasto
 Miniso | Supermercados | 5422
 Office Depot | Supermercados | 5411
 Oxxo | Supermercados | 5499 
+Sam's Club | Supermercados | 5300 
 Seven eleven | Supermercados | ?
 Soriana | Supermercados | 5411
 Valenti Collezione | Supermercados | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
+Walmart | Supermercados | 5411
 ||
 Meli Mas | Suscripciones a medios | 5399
 ||
